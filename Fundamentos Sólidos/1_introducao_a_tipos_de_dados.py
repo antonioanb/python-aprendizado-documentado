@@ -3,9 +3,9 @@
 # ele basicamente dita como o computador deve interagir com aqueele pedaço de informação
 
 
-2 # isso é um 2 literal o python o vê ele como um numero, sendo classificado como do tipo int(de integer, interio)
+2 # isso é um 2 literal o python o vê ele como um numero, sendo classificado como do tipo int(de integer, inteiro)
 
-"Antonio" # isso é um texto o python vê ele como uma sequencia de caracteres, sendo classificado como do tipo str(de string, cadeia de caracteres)
+"Antonio" # isso é um texto, o python vê ele como uma sequencia de caracteres sendo classificado como do tipo str(de string, cadeia de caracteres)
 
 True # é um valor literal booleano, classificado como do tipo bool( de boolean, booleano)
 
