@@ -20,7 +20,7 @@ nome = "antonio"
 # 3. Ele coloca esse valor em um endereço (ex: 0xABC).
 # 4. Ele faz o nome 'nome' apontar para 0xABC.
 
-# a variavel não se importa com o tipo do valor ela apenas aponta para o endereço, quem tem o tipo e o valor que está lá dentro, por isso python tem tipagem dinamica, o que quer dizer que dá para fazer a variacel apontar para outro local da memoria, exemplo:
+# a variavel não se importa com o tipo do valor ela apenas aponta para o endereço, quem tem o tipo é o valor que está lá dentro, por isso python tem tipagem dinamica, o que quer dizer que dá para fazer a variacvel apontar para outro local da memoria, exemplo:
 nome = 10 # a etiqueta nome parou de apontar para o texto e agora aponta para um numero.
 
 # variavel não é a caixa ela é o dedo que aponta para a caixa 👈🏻
@@ -30,7 +30,7 @@ idade = 25
 
 idade = "python" # variavel que antes apontava para 25 agora aponta para "python"
 
-# nesse caso o valor literal 25 ficou sozinho na memoria sem ninguem apontar para ele, quando isso acontace o pyhton usa um sistema chamado Garbage Collector (Coletor de Lixo) que limpa da memoria coisas nõa usadas para liberar espaço.
+# nesse caso o valor literal 25 ficou sozinho na memoria sem ninguem apontar para ele, quando isso acontace o pyhton usa um sistema chamado Garbage Collector (Coletor de Lixo) que limpa da memoria coisas não usadas para liberar espaço.
 
 
 # outros exemplos de variaveis com outros dados:
