@@ -20,7 +20,7 @@ nome = "antonio"
 # 3. Ele coloca esse valor em um endereço (ex: 0xABC).
 # 4. Ele faz o nome 'nome' apontar para 0xABC.
 
-# a variavel não se importa com o tipo do valor ela apenas aponta para o endereço, quem tem o tipo é o valor que está lá dentro, por isso python tem tipagem dinamica, o que quer dizer que dá para fazer a variacvel apontar para outro local da memoria, exemplo:
+# a variavel não se importa com o tipo do valor ela apenas aponta para o endereço, quem tem o tipo é o valor que está lá dentro, por isso python tem tipagem dinamica, o que quer dizer que dá para fazer a variavel apontar para outro local da memoria, exemplo:
 nome = 10 # a etiqueta nome parou de apontar para o texto e agora aponta para um numero.
 
 # variavel não é a caixa ela é o dedo que aponta para a caixa 👈🏻
